@@ -6,10 +6,10 @@ Este currículum fue elaborado utilizando el lenguaje de marcas Markdown y aloja
 
 ## Información personal
 
-- **Nombre:** Tu Nombre Aquí  
-- **Correo electrónico:** tuemail@ejemplo.com  
-- **Teléfono:** +34 123 456 789  
-- **Ciudad y país:** Ciudad, País  
+- **Nombre:** 
+- **Correo electrónico:** 
+- **Teléfono:** 
+- **Ciudad y país:**
 
 ## Formación académica
 
